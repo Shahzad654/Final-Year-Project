@@ -1,0 +1,106 @@
+.logo-img img {
+  width: 4vw;
+  border-radius: 10vw;
+  cursor: pointer;
+}
+
+.logo-img {
+  margin-left: -6vw;
+  margin-right: 8vw;
+}
+
+.logo-text h3 {
+  margin-left: -7vw;
+  margin-right: 2vw;
+  margin-top: 0.8vw;
+  font-size: 1.8vw;
+}
+
+#navbar-css {
+  width: 100%;
+
+}
+
+#aboutnav{
+  text-decoration: none;
+}
+
+
+#basic-nav-dropdown {
+  margin-left: 1vw;
+  font-size: 1.4vw;
+}
+
+#home_link {
+  font-size: 1.4vw;
+}
+
+#login-btn {
+  margin-left: 8vw;
+  margin-top: 0.2vw;
+  /* text-shadow: 3px 3px 6px rgba(0, 0, 0, 2); */
+  /* color: white; */
+}
+
+/* #popover-login{
+  margin-right: 30vw;
+  margin-top: 5vw;
+
+} */
+
+#popover-signup{
+  margin-right: 30vw;
+
+}
+
+#signup-btn {
+  margin-left: 2vw;
+ 
+}
+
+
+.homepage {
+  text-decoration: none;
+  
+}
+
+#home_link{
+  color: white;
+  font-weight: bold;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 2);
+
+}
+
+#basic-nav-dropdown, #basic-nav-dropdown, #basic-nav-dropdown, #basic-nav-dropdown{
+  color: white;
+  font-weight: bold;
+  text-shadow: 3px 3px 6px rgba(0, 0, 0, 2);
+
+}
+
+@media (max-width: 600px) {
+  .logo-img img{
+    margin-left: 5vw;
+    width: 14vw;
+
+  }
+
+  #navbar-toggle{
+    margin-right: 10vw;
+    background-color: white;
+  }
+
+    #home_link {
+      font-size: 4vw;
+    }
+
+  #basic-nav-dropdown{
+    font-size: 4vw;
+  }
+
+  #login-btn{
+    margin-right: 13vw;
+    margin-top: 2vw;
+  }
+  
+}

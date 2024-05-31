@@ -1,0 +1,13 @@
+.job_main{
+    margin-top: 8vw;
+}
+
+@media (max-width: 600px) {
+    .job_main {
+        margin-top: 24vw;
+    }
+    #job_cards{
+        margin-left: 5vw;
+    }
+}
+

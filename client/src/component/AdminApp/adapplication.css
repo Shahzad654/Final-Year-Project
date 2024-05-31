@@ -1,0 +1,23 @@
+/* .get-applications{
+    padding-left: 24vw;
+} */
+
+.app-show{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    margin-top: 3vw;
+    margin-left: 8vw;
+    color: white;
+}
+
+.app-show p{
+    color: black;
+}
+
+#procceed-btn{
+    margin-left: 50vw;
+}
+
+.application-img{
+    width: 10vw;
+}
