@@ -1,0 +1,61 @@
+/* .get_complaint{
+    margin-left: 25vw;
+    margin-top: 2vw;
+    border: 1px solid #59677a;
+    border-radius: 3vw;
+    padding-left: 3vw;
+    background-color: black;
+    color: white;
+}
+
+.Adcomp_container{
+    background-color: #1d2634;
+    color: #9e9ea4;
+    height: 100vw;
+}
+
+.Adcomp_sidebar{
+    height: 49.5vw;
+    width: 20vw;
+    position: fixed;
+}
+
+.get_complaint h3{
+    color: white;
+}
+
+.response_msg{
+    margin-left: 32vw;
+}
+
+.complaint_admin{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    overflow-y: auto;
+}
+
+.application-img{
+    width: 6vw;
+    height: 6vw;
+}
+
+.response_msg{
+    background-color: black;
+    padding-top: 10vw;
+    padding-left: 3vw;
+    border-radius: 3vw;
+    margin-left: 15vw;
+    margin-right: 3vw;
+    margin-top: 2vw;
+    border: 1px solid #59677a;
+
+}
+
+.response-text{
+    padding: 1.5vw 8vw 3vw 1.2vw;
+    border-radius: 2vw;
+}
+
+#sent-btn{
+    margin-top: 2vw;
+} */

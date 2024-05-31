@@ -1,0 +1,46 @@
+.overlay{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000; 
+
+}
+
+#chat-btn {
+  display: block;
+  margin-top: 1.5vw;
+
+}
+
+.overlayhelp{
+  position: fixed;
+  top: 90%;
+  left: 90%;
+  right: 0;
+  z-index: 999;
+
+}
+
+
+.chatbot-popover {
+  position: fixed;
+  top: 50%; 
+  right: 14%;
+  transform: translateY(-50%);
+  width: 300px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+ 
+}
+
+
+@media (max-width: 600px) {
+
+  .carsousel_main{
+    margin-top: 17vw;
+  }
+  #carsousel{
+    height: 40vw;
+  }
+  
+}

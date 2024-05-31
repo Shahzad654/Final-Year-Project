@@ -1,0 +1,65 @@
+.achivements_container{
+    background-color: #007bff;
+    height: 10vw;
+    margin-top: 6vw;
+    margin-bottom: -5vw;
+}
+
+.flexbanner{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    gap: 5vw;
+    padding-top: 2.4vw;
+}
+
+.home_users,
+.commercial_users,
+.Industrial_users,
+.Tubewel_users{
+    display: flex;
+}
+
+.home_users h3,
+.commercial_users h3,
+.Industrial_users h3,
+.Tubewel_users h3{
+    color: white;
+    margin-left: 2.1vw;
+
+}
+
+.commercial_users p,
+.Industrial_users p,
+.Tubewel_users p{
+    color: white;
+    margin-top: 2.8vw;
+    margin-left: -6vw;
+    font-size: 1.3vw;
+
+}
+
+#home_users_icon,
+#commercial_users_icon,
+#Industrial_users_icon,
+#Tubewel_users_icon{
+    color: white;
+    width: 4vw;
+    height: 4vw;
+
+}
+
+#doms_cons{
+    color: white;
+    margin-top: 2.8vw;
+    margin-left: -7.5vw;
+    font-size: 1.3vw;
+
+}
+
+@media (max-width: 600px) {
+    .achivements_container{
+        display: none;
+    }
+    
+}
