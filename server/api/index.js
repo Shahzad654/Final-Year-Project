@@ -29,7 +29,7 @@ const mongoURI = "mongodb+srv://shahzadj2001:WSGYbkyODEUCcRJ9@cluster0.0ryo7tr.m
 app.use(express.json());
 app.use(
   cors({
-    origin: ["http://localhost:5173", "http://localhost:5174","http://192.168.0.101:5173" ],
+    origin: ["http://localhost:5173", "http://localhost:5174","http://192.168.0.101:5173". "https://6659f024e7f8115a6aef4e54--profound-croquembouche-eff66a.netlify.app" ],
     methods: ["GET", "POST", "PUT", "DELETE"],
     credentials: true,
   })
